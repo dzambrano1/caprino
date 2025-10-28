@@ -1,0 +1,798 @@
+[2025-09-24 22:22:19] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-09-24_222219.pdf
+    [type] => application/pdf
+    [size] => 1006554
+)
+
+[2025-09-24 22:22:19] File details
+Array
+(
+    [name] => Pintado_9500_2025-09-24_222219.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 1006554
+    [tmp_name] => C:\xampp\tmp\php21B2.tmp
+)
+
+[2025-09-24 22:22:26] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2763990f8f0)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d452fbc9130
+accept: application/json
+content-length: 1006743
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 2ce337c2aa1e71e51ee8a17aa4fd9150;o=1
+< date: Wed, 24 Sep 2025 20:22:25 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 22:22:26] API Response
+Array
+(
+    [sourceId] => src_tN5JsnCBLyKB6ik7Djla2
+)
+
+[2025-09-24 22:33:01] Uploading file
+Array
+(
+    [name] => Domingo_9500_2025-09-24_223301.pdf
+    [type] => application/pdf
+    [size] => 1007012
+)
+
+[2025-09-24 22:33:01] File details
+Array
+(
+    [name] => Domingo_9500_2025-09-24_223301.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 1007012
+    [tmp_name] => C:\xampp\tmp\phpECA9.tmp
+)
+
+[2025-09-24 22:33:09] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x27639930150)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68d4557d94b80
+accept: application/json
+content-length: 1007201
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: f9f809afb87a05a8a041247ff91e65cd;o=1
+< date: Wed, 24 Sep 2025 20:33:08 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-09-24 22:33:09] API Response
+Array
+(
+    [sourceId] => src_gvZbDB3yvuHSWWsKiQry0
+)
+
+[2025-10-01 00:07:45] Uploading file
+Array
+(
+    [name] => Roky_9500_2025-10-01_000744.pdf
+    [type] => application/pdf
+    [size] => 546178
+)
+
+[2025-10-01 00:07:45] File details
+Array
+(
+    [name] => Roky_9500_2025-10-01_000744.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 546178
+    [tmp_name] => C:\xampp\tmp\phpA21C.tmp
+)
+
+[2025-10-01 00:07:51] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x219a4951960)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dc54b1071cc
+accept: application/json
+content-length: 546364
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: f59e2097ca62b6b927ce87cd794213b5
+< date: Tue, 30 Sep 2025 22:07:52 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 00:07:51] API Response
+Array
+(
+    [sourceId] => src_hSqeFxdN1ZBceSs2zyDVv
+)
+
+[2025-10-01 00:29:13] Uploading file
+Array
+(
+    [name] => Lola_9500_2025-10-01_002913.pdf
+    [type] => application/pdf
+    [size] => 361463
+)
+
+[2025-10-01 00:29:13] File details
+Array
+(
+    [name] => Lola_9500_2025-10-01_002913.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 361463
+    [tmp_name] => C:\xampp\tmp\php4AD3.tmp
+)
+
+[2025-10-01 00:29:18] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2d3a8470750)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dc59b965515
+accept: application/json
+content-length: 361649
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 026e4d349ef087aaaf4ef43c24edd1e8;o=1
+< date: Tue, 30 Sep 2025 22:29:19 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 00:29:18] API Response
+Array
+(
+    [sourceId] => src_YzavjkbM7Y502gRaCqaxg
+)
+
+[2025-10-01 00:32:57] Uploading file
+Array
+(
+    [name] => Roky_9500_2025-10-01_003257.pdf
+    [type] => application/pdf
+    [size] => 546178
+)
+
+[2025-10-01 00:32:57] File details
+Array
+(
+    [name] => Roky_9500_2025-10-01_003257.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 546178
+    [tmp_name] => C:\xampp\tmp\phpB76B.tmp
+)
+
+[2025-10-01 00:33:03] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x2d3a8382580)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dc5a99c5bef
+accept: application/json
+content-length: 546364
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 9ae95bb117e1ab3185b031fe5374b30a;o=1
+< date: Tue, 30 Sep 2025 22:33:05 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 00:33:03] API Response
+Array
+(
+    [sourceId] => src_Ixk50KkPjVnWoNPGGo4YN
+)
+
+[2025-10-01 00:33:16] Chat Request
+Array
+(
+    [sourceId] => src_Ixk50KkPjVnWoNPGGo4YN
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre del animal
+                )
+
+        )
+
+)
+
+[2025-10-01 00:33:17] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: a417fed01b3ab396fac1a6ddad2ca8e0;o=1
+date: Tue, 30 Sep 2025 22:33:19 GMT
+server: Google Frontend
+content-length: 162
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 00:33:17] API Response Body
+{"content":"No se menciona el nombre del animal en las páginas proporcionadas. Sin embargo, según la información que tengo, el nombre del animal es \"Roky\"."}
+[2025-10-01 14:15:30] Uploading file
+Array
+(
+    [name] => Lola_9500_2025-10-01_141530.pdf
+    [type] => application/pdf
+    [size] => 361461
+)
+
+[2025-10-01 14:15:30] File details
+Array
+(
+    [name] => Lola_9500_2025-10-01_141530.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 361461
+    [tmp_name] => C:\xampp\tmp\phpC8A1.tmp
+)
+
+[2025-10-01 14:15:36] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1669b02d060)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dd1b62cc329
+accept: application/json
+content-length: 361647
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 2ef0976551e05cfe96475f6206373332;o=1
+< date: Wed, 01 Oct 2025 12:15:39 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 14:15:36] API Response
+Array
+(
+    [sourceId] => src_4wSypu9CIkKIVHuv9cWRb
+)
+
+[2025-10-01 14:17:47] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-10-01_141747.pdf
+    [type] => application/pdf
+    [size] => 1006555
+)
+
+[2025-10-01 14:17:47] File details
+Array
+(
+    [name] => Pintado_9500_2025-10-01_141747.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 1006555
+    [tmp_name] => C:\xampp\tmp\phpDEF0.tmp
+)
+
+[2025-10-01 14:17:53] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1669b0392f0)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dd1beb94401
+accept: application/json
+content-length: 1006744
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 494bbe2c0babb050cc61c7058e4f115c;o=1
+< date: Wed, 01 Oct 2025 12:17:56 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 14:17:53] API Response
+Array
+(
+    [sourceId] => src_kwe8UkRuncPjJjgPVZjSZ
+)
+
+[2025-10-01 14:18:01] Chat Request
+Array
+(
+    [sourceId] => src_kwe8UkRuncPjJjgPVZjSZ
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre del animal
+                )
+
+        )
+
+)
+
+[2025-10-01 14:18:02] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 36135020c17d5b5f22478281aab74686;o=1
+date: Wed, 01 Oct 2025 12:18:05 GMT
+server: Google Frontend
+content-length: 50
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 14:18:02] API Response Body
+{"content":"El nombre del animal es \"Pintado\"."}
+[2025-10-01 14:18:06] Chat Request
+Array
+(
+    [sourceId] => src_kwe8UkRuncPjJjgPVZjSZ
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Edad
+                )
+
+        )
+
+)
+
+[2025-10-01 14:18:08] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 7924d62810107fcefd5c126f14ac9a32
+date: Wed, 01 Oct 2025 12:18:11 GMT
+server: Google Frontend
+content-length: 143
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 14:18:08] API Response Body
+{"content":"El animal \"Pintado\" nació el 1 de enero de 2024, por lo que, a la fecha actual (1 de octubre de 2025), tiene 21 meses de edad."}
+[2025-10-01 14:24:39] Uploading file
+Array
+(
+    [name] => Pintado_9500_2025-10-01_142439.pdf
+    [type] => application/pdf
+    [size] => 1006555
+)
+
+[2025-10-01 14:24:39] File details
+Array
+(
+    [name] => Pintado_9500_2025-10-01_142439.pdf
+    [type] => application/pdf
+    [detected_type] => application/pdf
+    [size] => 1006555
+    [tmp_name] => C:\xampp\tmp\php26FA.tmp
+)
+
+[2025-10-01 14:24:45] CURL Verbose Log
+*   Trying 35.211.160.169:443...
+* Connected to api.chatpdf.com (35.211.160.169) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: CN=api.chatpdf.com
+*  start date: Sep 20 12:55:34 2025 GMT
+*  expire date: Dec 19 13:49:07 2025 GMT
+*  subjectAltName: host "api.chatpdf.com" matched cert's "api.chatpdf.com"
+*  issuer: C=US; O=Google Trust Services; CN=WR3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x1669b0392f0)
+> POST /v1/sources/add-file HTTP/2
+Host: api.chatpdf.com
+x-api-key: sec_AdQUXMlHjjhyrwud6dGCP9DFtUt8ZS7T
+content-type: multipart/form-data; boundary=-------------68dd1d8744a76
+accept: application/json
+content-length: 1006744
+
+* old SSL session ID is stale, removing
+* We are completely uploaded and fine
+< HTTP/2 200 
+< access-control-allow-origin: *
+< content-type: application/json; charset=utf-8
+< x-cloud-trace-context: 1c79e93106f7e0d8d9f9f8625359d1a0;o=1
+< date: Wed, 01 Oct 2025 12:24:48 GMT
+< server: Google Frontend
+< content-length: 40
+< via: 1.1 google
+< alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+< 
+* Connection #0 to host api.chatpdf.com left intact
+
+[2025-10-01 14:24:45] API Response
+Array
+(
+    [sourceId] => src_Xl1YwLt0RJrNvJVS5jiK3
+)
+
+[2025-10-01 14:33:23] Chat Request
+Array
+(
+    [sourceId] => src_5132QBkV1PfhD6KzuVT0E
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre animal
+                )
+
+        )
+
+)
+
+[2025-10-01 14:33:25] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 9362a424db571ccabd2b9c6adef4b960;o=1
+date: Wed, 01 Oct 2025 12:33:28 GMT
+server: Google Frontend
+content-length: 50
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-01 14:33:25] API Response Body
+{"content":"El nombre del animal es \"Pintado\"."}
+[2025-10-04 13:06:21] Chat Request
+Array
+(
+    [sourceId] => src_GxY7689dNhcTAauF0R1LW
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Nombre y edad
+                )
+
+        )
+
+)
+
+[2025-10-04 13:06:23] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 628e5d7d206cda5dccd0923f51ee2be3
+date: Sat, 04 Oct 2025 11:06:21 GMT
+server: Google Frontend
+content-length: 111
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-04 13:06:23] API Response Body
+{"content":"El nombre del animal es \"Pintado\" y su edad es de 9 meses, ya que nació el 1 de enero de 2024."}
+[2025-10-14 23:48:40] Chat Request
+Array
+(
+    [sourceId] => src_FcQwBIx8MM5PgNhbRotlC
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => ¿Cuál es el estado de salud actual de este animal?
+                )
+
+        )
+
+)
+
+[2025-10-14 23:48:41] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: c73af76ffbbdec424e52f1c5abf8a0ef
+date: Tue, 14 Oct 2025 21:48:41 GMT
+server: Google Frontend
+content-length: 171
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-14 23:48:41] API Response Body
+{"content":"El animal \"Pintado\" está clasificado en el grupo de \"Sanos\" y su estatus es \"Activo\". No se reportan problemas de salud en la información disponible."}
+[2025-10-14 23:48:46] Chat Request
+Array
+(
+    [sourceId] => src_FcQwBIx8MM5PgNhbRotlC
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => ¿Qué vacunas y tratamientos ha recibido?
+                )
+
+        )
+
+)
+
+[2025-10-14 23:48:52] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 6e83147e893a8e2c6dfb43278e1388b6;o=1
+date: Tue, 14 Oct 2025 21:48:51 GMT
+server: Google Frontend
+content-length: 860
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-14 23:48:52] API Response Body
+{"content":"El animal 12345 (Pintado) ha recibido los siguientes tratamientos y vacunas:\n\n1. **Clostridiosis**\n   - Fecha: 2025-06-06\n   - Producto: Clostri FORTE\n   - Dosis: 2.00 ml\n\n2. **Brucelosis**\n   - Fecha: 2025-06-06\n   - Producto: Rev.1 de Brucella melitensis\n   - Dosis: 3.00 ml\n\n3. **Tétanos**\n   - Fecha: 2025-06-06\n   - Producto: Combibac r8\n   - Dosis: 3.00 ml\n\n4. **Parásitos**\n   - Fecha: 2025-06-06\n   - Producto: Synanthic®\n   - Dosis: 5.00 ml\n\nAdemás, se han realizado tratamientos en los siguientes números de animales:\n- Clostridiosis: 26 tratados, 3 pendientes\n- Brucelosis: 16 tratados, 7 pendientes\n- Tétanos: 16 tratados, 7 pendientes\n- Rabia: 16 tratados, 7 pendientes\n- Garrapatas: 14 tratados, 9 pendientes\n- Parásitos: 14 tratados, 9 pendientes\n\nEl costo total en tratamientos es de $1312.39."}
+[2025-10-14 23:49:17] Chat Request
+Array
+(
+    [sourceId] => src_FcQwBIx8MM5PgNhbRotlC
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => Vacunas de 12345
+                )
+
+        )
+
+)
+
+[2025-10-14 23:49:22] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: 4f071c037293bfbe888cb324204f5e16
+date: Tue, 14 Oct 2025 21:49:21 GMT
+server: Google Frontend
+content-length: 620
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-14 23:49:22] API Response Body
+{"content":"Las vacunas administradas al animal 12345 (Pintado) son las siguientes:\n\n1. **Clostridiosis**\n   - Dosis: 2.00 ml\n   - Fecha: 2025-06-06\n   - Producto: Clostri FORTE 10\n\n2. **Brucelosis**\n   - Dosis: 3.00 ml\n   - Fecha: 2025-06-06\n   - Producto: Brucella melitensis\n\n3. **Rabia**\n   - Dosis: 3.00 ml\n   - Fecha: 2025-06-06\n   - Producto: Vibix Rabia\n\n4. **Tetanos**\n   - Dosis: 3.00 ml\n   - Fecha: 2025-06-06\n   - Producto: Combibac r8\n\n5. **Parasitos**\n   - Dosis: 5.00 ml\n   - Fecha: 2025-06-06\n   - Producto: Synanthic®\n\nSi necesitas más información, no dudes en preguntar."}
+[2025-10-14 23:49:42] Chat Request
+Array
+(
+    [sourceId] => src_FcQwBIx8MM5PgNhbRotlC
+    [messages] => Array
+        (
+            [0] => Array
+                (
+                    [role] => user
+                    [content] => ¿Cómo está su producción y peso?
+                )
+
+        )
+
+)
+
+[2025-10-14 23:49:50] API Response Headers
+HTTP/2 200 
+access-control-allow-origin: *
+content-type: application/json; charset=utf-8
+x-cloud-trace-context: faa7447781c3f4772c442e87b443da34
+date: Tue, 14 Oct 2025 21:49:49 GMT
+server: Google Frontend
+content-length: 862
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+[2025-10-14 23:49:50] API Response Body
+{"content":"La producción de leche del animal \"Pintado\" ha variado en los últimos meses. Aquí están los datos más recientes:\n\n- **Producción de leche**:\n  - **Julio 2025**: 25.00 litros diarios (775.00 litros mensuales)\n  - **Junio 2025**: 55.00 litros diarios (1,650.00 litros mensuales)\n  - **Mayo 2025**: 107.50 litros diarios (3,332.50 litros mensuales)\n  - **Abril 2025**: 160.00 litros diarios (4,800.00 litros mensuales)\n  - **Promedio mensual**: 3,342.79 litros\n  - **Promedio diario por animal**: 11.10 litros\n\nEn cuanto al peso, los registros más recientes son:\n\n- **Peso**:\n  - **Agosto 2025**: 300.00 kg\n  - **Mayo 2025**: 400.00 kg\n  - **Abril 2025**: 350.00 kg\n  - **Promedio general**: 410.59 kg\n\nEl peso ha mostrado un aumento significativo en los meses anteriores, alcanzando un máximo de 400.00 kg en mayo de 2025."}
